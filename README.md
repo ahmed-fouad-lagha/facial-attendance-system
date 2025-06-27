@@ -44,7 +44,7 @@ Before installing, ensure you have the following installed on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ahmed-fouad-lagha/facial-attendance-system.git
 cd facial-attendance-system
 ```
 
